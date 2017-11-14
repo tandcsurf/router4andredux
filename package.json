@@ -3,9 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "history": "^4.7.2",
     "react": "^16.1.0",
     "react-dom": "^16.1.0",
-    "react-scripts": "1.0.17"
+    "react-redux": "^5.0.6",
+    "react-router": "^4.2.0",
+    "react-router-redux": "^5.0.0-alpha.8",
+    "react-scripts": "1.0.17",
+    "redux": "^3.7.2",
+    "remote-redux-devtools": "^0.5.12"
   },
   "scripts": {
     "start": "react-scripts start",
